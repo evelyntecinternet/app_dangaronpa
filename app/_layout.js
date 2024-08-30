@@ -15,8 +15,10 @@ export default function RootLayout() {
       }}
     >
       {/* <Stack.Screen name="index" options={{ headerShown: false }} /> */}
-      	<Stack.Screen name="index" options={{ title: "Danganronpa" }} />
-    <Stack.Screen name="products" options={{ title: "Personagens" }} />
+      <Stack.Screen name="index" options={{ title: "Danganronpa" }} />
+      <Stack.Screen name="products" options={{ title: "Personagens" }} />
+      <Stack.Screen name="about" options={{ title: "Icons" }} />
+      <Stack.Screen name="flex" options={{ title: "Zero" }} />
     </Stack>
   );
 }

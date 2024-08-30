@@ -1,0 +1,22 @@
+{
+    "listProduct":[
+        {
+            "id": 1,
+            "title": "Monokuma",
+            "description":"Monokuma é um urso de pelúcia robótico e o autoproclamado Diretor da Hope's Peak Academy",
+            "image": "Monokuma_pixel"
+        },
+        {
+            "id": 2,
+            "title": "Kirigiri",
+            "description": "Kyoko Kirigiri é uma estudante da classe 78 da Academia Pico da Esperança e participante do Jogo da Morte",
+            "image":"Kirigiri_pixel"
+        },
+        {
+            "id":3,
+            "title":"Chiaki",
+            "description":"Chiaki is the Ultimate Gamer, a talented person that is very good at any game",
+            "image":"Chiaki_pixel"
+        }
+    ]
+}
